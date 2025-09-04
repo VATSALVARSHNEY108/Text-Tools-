@@ -1,3 +1,4 @@
+__author__ = "Vatsal Varshney"
 import streamlit as st
 import base64
 import hashlib
@@ -1729,3 +1730,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
